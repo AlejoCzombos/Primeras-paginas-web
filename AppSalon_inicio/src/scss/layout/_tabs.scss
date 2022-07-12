@@ -1,0 +1,20 @@
+.tabs {
+    @include grid(3, $separacion / 2);
+    button {
+        background-color: $rosa-osc;
+        border: none;
+        color: $blanco;
+        font-weight: $delgada;
+        padding: 1rem;
+        text-align: center;
+        text-transform: uppercase;
+        border-radius: 3rem;
+        &.actual {
+            background-color: $rosa;
+        }
+        &:hover {
+            cursor: pointer;
+            color: $negro;
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Curso de Macramé Libre",
+            "precio": 600
+        },
+        {
+            "id": 2,
+            "nombre": "Curso de Macramé Intensivo-Básico",
+            "precio": 1500
+        },
+        {
+            "id": 3,
+            "nombre": "Aguja Crochet",
+            "precio": 100
+        },
+        {
+            "id": 4,
+            "nombre": "100g de Hilo Macramé",
+            "precio": 400
+        },
+        {
+            "id": 5,
+            "nombre": "100g de Hilo Peruano",
+            "precio": 400
+        },
+        {
+            "id": 6,
+            "nombre": "100g de Hilo Rústico",
+            "precio": 250
+        },
+        {
+            "id": 7,
+            "nombre": "100g de Algodón Italiano",
+            "precio": 250
+        },
+        {
+            "id": 8,
+            "nombre": "100g de Algodón con Seda",
+            "precio": 350
+        },
+        {
+            "id": 9,
+            "nombre": "100g de Algodón con Seda Matizado",
+            "precio": 400
+        },
+        {
+            "id": 10,
+            "nombre" : "100g de Cashmilon de Verano",
+            "precio": 270
+        }
+    ]
+}

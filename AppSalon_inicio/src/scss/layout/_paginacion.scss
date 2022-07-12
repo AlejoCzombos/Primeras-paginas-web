@@ -1,0 +1,20 @@
+.paginacion {
+    display: flex;
+    justify-content: space-between;
+    button {
+        margin-top: 2rem;
+        padding: 1rem;
+        background-color: $rosa;
+        color: $blanco;
+        border: none;
+        font-weight: $delgada;
+        font-size: 2rem;
+        text-align: center;
+        text-transform: uppercase;
+        border-radius: 3rem;
+        &:hover {
+            cursor: pointer;
+            color: $negro;
+        }
+    }
+}
